@@ -1,6 +1,6 @@
 # Lern-Periode 3
 
-Max Muster
+Syuanyu Lai
 
 9.1.2024 bis 30.1.2024 (☃️ Sportferien)
 
