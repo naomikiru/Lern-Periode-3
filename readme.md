@@ -12,19 +12,21 @@ Syuanyu Lai
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen programmieren werde. Der Code wird uns ein paar Mathe Rechnungen geben, die wir lösen müssen. Ich habe noch nicht entschieden wie viele Rechnungen abgefragt werden. Aber wenn man eine falsche Antwort eingibt, wird die Rechnung wiederholt bis wir die richtige Lösung eingeben. Heute habe ich auch noch für einen Französisch Voci Test am Mittwoch gelernt. 
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Code anfangen
+- [ ] Rechnungen reinprogrammieren
+- [ ] Kleiner Zahlengenerator, damit es nicht immer die gleichen Zahlen sind
+- [ ] Ein Code damit nur 5 Rechnungen abgefragt werden
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |   Matherechnung      |                |  1. 5 + 7 =    |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
