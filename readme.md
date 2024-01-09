@@ -24,7 +24,7 @@ Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen program
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |   Matherechnung              |  2. 12              |  1. 5 + 7 =     / 3. Richtig |          |
-| 2               |   Matherechnung                   |  2.  10             |  1. 6 + 3 =      / Falsch         |          |
+| 2               |   Matherechnung                   |  2.  10             |  1. 6 + 3 =      / 3. Falsch   / 4. 6 + 3 =       |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
