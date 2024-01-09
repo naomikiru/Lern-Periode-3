@@ -12,7 +12,7 @@ Syuanyu Lai
 
 ## 9.1.2024
 
-Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen programmieren werde. Der Code wird uns ein paar Mathe Rechnungen geben, die wir lösen müssen. Ich habe noch nicht entschieden wie viele Rechnungen abgefragt werden. Aber wenn man eine falsche Antwort eingibt, wird die Rechnung wiederholt bis wir die richtige Lösung eingeben. Heute habe ich auch noch für einen Französisch Voci Test am Mittwoch gelernt. 
+Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen programmieren werde. Der Code wird uns ein paar Mathe Rechnungen geben, die wir lösen müssen. Ich habe noch nicht entschieden wie viele Rechnungen abgefragt werden. Aber wenn man eine falsche Antwort eingibt, wird die Rechnung wiederholt bis wir die richtige Lösung eingeben. Heute habe ich auch noch für einen Französisch Voci Test am Mittwoch gelernt. (68)
 
 ## 16.1 und 23.1.2024
 
@@ -23,8 +23,8 @@ Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen program
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   Matherechnung              |  2. 12              |  1. 5 + 7 =     / 3. Richtig!! |          |
-| 2               |                      |                |                |          |
+| 1               |   Matherechnung              |  2. 12              |  1. 5 + 7 =     / 3. Richtig |          |
+| 2               |   Matherechnung                   |  2.  10             |  1. 6 + 3 =      / Falsch         |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
