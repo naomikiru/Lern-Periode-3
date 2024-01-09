@@ -8,7 +8,7 @@ Syuanyu Lai
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+3. Ein Code, dass dir kleine Mathe Rechnungen gibt die wir lösen müssen. 
 
 ## 9.1.2024
 
