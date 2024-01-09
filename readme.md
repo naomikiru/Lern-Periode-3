@@ -7,7 +7,7 @@ Syuanyu Lai
 ## Grob-Planung
 
 1. Meine Noten sind jetzt eher ausgeglichen. Ich bin mir nicht sicher in welchen Modulen ich besser bin, aber ich finde das Modul 319 am wichtigsten. 
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+2. Programmieren üben, da ich in der Lern Periode 2 ein paar Fehler hatte. 
 3. Ein Code, dass dir kleine Mathe Rechnungen gibt die wir lösen müssen. Addition Rechnungen und vielleicht Subtraktion Rechungen. 
 
 ## 9.1.2024
