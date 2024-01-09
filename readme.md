@@ -23,7 +23,7 @@ Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen program
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   Matherechnung      |                |  1. 5 + 7 =    |          |
+| 1               |   Matherechnung              |                |  1. 5 + 7 =    |          |
 | 2               |                      |                |                |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
