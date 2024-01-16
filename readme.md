@@ -16,19 +16,19 @@ Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen program
 
 ## 16.1 und 23.1.2024
 
-- [ ] Code anfangen
-- [ ] Rechnungen reinprogrammieren
-- [ ] Kleiner Zahlengenerator, damit es nicht immer die gleichen Zahlen sind
+- [x] Code anfangen
+- [x] Rechnungen reinprogrammieren
+- [x] Kleiner Zahlengenerator, damit es nicht immer die gleichen Zahlen sind
 - [ ] Ein Code damit nur 5 Rechnungen abgefragt werden
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   Matherechnung              |  2. 12              |  1. 5 + 7 =     / 3. Richtig |          |
+| 1               |   Matherechnung              |               |  1. 5 + 7 =       |    erfüllt      |
 | 2               |   Matherechnung                   |  2.  10             |  1. 6 + 3 =      / 3. Falsch   / 4. 6 + 3 =       |          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+Heute am 16.1 habe ich angefangen zu orogrammieren. Ich habe einen kleinen einfachen Zahlen Generator programmiert, das 2 zufällige Zahlen zwischen 1 und 100 generiert. Ich habe auch noch einen anderen Generator eingebaut das zwischen Addition und Subraktion, eine von denen auswählen wird. Ich bin bis hier gekommen und ich muss noch einen Code programmieren damit wir die Lösung eintragen können. Ich bin noch nicht daran gekommen, dass es 5 Rechnungen abfragen wird. (73)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
