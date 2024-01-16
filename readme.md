@@ -28,16 +28,16 @@ Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen program
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-Heute am 16.1 habe ich angefangen zu orogrammieren. Ich habe einen kleinen einfachen Zahlen Generator programmiert, das 2 zufällige Zahlen zwischen 1 und 100 generiert. Ich habe auch noch einen anderen Generator eingebaut das zwischen Addition und Subraktion, eine von denen auswählen wird. Ich bin bis hier gekommen und ich muss noch einen Code programmieren damit wir die Lösung eintragen können. Ich bin noch nicht daran gekommen, dass es 5 Rechnungen abfragen wird. (73)
+Heute am 16.1 habe ich angefangen zu orogrammieren. Ich habe einen kleinen einfachen Zahlen Generator programmiert, das 2 zufällige Zahlen zwischen 1 und 100 generiert. Ich habe auch noch einen anderen Generator eingebaut das zwischen Addition und Subraktion, eine von denen auswählen wird. Ich bin bis hier gekommen und ich muss noch einen Code programmieren damit wir die Lösung eintragen können. Ich bin noch nicht daran gekommen, dass es 5 Rechnungen abfragen wird, weil ich später aufgestanden bin. (78)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] ein Code damit nur 5 Rechnungen abgefragt wird
+- [ ] ein Code damit man die Antwort reinschreiben kann
+- [ ] wenn die lösung richtig ist sagt es richtig 
+- [ ] wenn die lösung falsch ist gibt es die richtige lösung aus
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
