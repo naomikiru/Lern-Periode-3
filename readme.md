@@ -19,25 +19,24 @@ Heute habe ich ein Projekt ausgesucht, dass ich in den nachsten 2 Wochen program
 - [x] Code anfangen
 - [x] Rechnungen reinprogrammieren
 - [x] Kleiner Zahlengenerator, damit es nicht immer die gleichen Zahlen sind
-- [ ] Ein Code damit nur 5 Rechnungen abgefragt werden
+- [x] Ein Code damit nur 5 Rechnungen abgefragt werden
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |   Matherechnung              |               |  1. 5 + 7 =       |    erfüllt      |
-| 2               |   Matherechnung                   |  2.  10             |  1. 6 + 3 =      / 3. Falsch   / 4. 6 + 3 =       |          |
+| 2               |   Matherechnung                   |  2.  10             |  1. 6 + 3 =      / 3. Falsch      |  erfüllt        |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
 Heute am 16.1 habe ich angefangen zu orogrammieren. Ich habe einen kleinen einfachen Zahlen Generator programmiert, das 2 zufällige Zahlen zwischen 1 und 100 generiert. Ich habe auch noch einen anderen Generator eingebaut das zwischen Addition und Subraktion, eine von denen auswählen wird. Ich bin bis hier gekommen und ich muss noch einen Code programmieren damit wir die Lösung eintragen können. Ich bin noch nicht daran gekommen, dass es 5 Rechnungen abfragen wird, weil ich später aufgestanden bin. (78)
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 23.1.2024
 
-- [ ] ein Code damit nur 5 Rechnungen abgefragt wird
-- [ ] ein Code damit man die Antwort reinschreiben kann
-- [ ] wenn die lösung richtig ist sagt es richtig 
-- [ ] wenn die lösung falsch ist gibt es die richtige lösung aus
+- [x] ein Code damit nur 5 Rechnungen abgefragt wird
+- [x] ein Code damit man die Antwort reinschreiben kann
+- [x] wenn die lösung richtig ist sagt es richtig 
+- [x] wenn die lösung falsch ist gibt es die richtige lösung aus
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -45,9 +44,7 @@ Heute am 16.1 habe ich angefangen zu orogrammieren. Ich habe einen kleinen einfa
 | ...             |                      |                |                |          |
 | 8               |                      |                |                |          |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+✍️ Heute am 23.1 habe ich an mein Projekt weiter gemacht. Ich habe mein Projekt heute fertig programmiert. Ich habe zuerst einen Code programmiert, damit ich die Lösung reinschreiben kann. Wenn die Lösung richtig ist antwortet das Programm mit "Richtig!" und wenn die Lösung falsch ist, antwortet das Programm mit der richtigen Lösung. Ich habe dann zuletzt einen Loop eingebaut, das sich 5 mal wiederholen wird. (65)
 
 ## 30.1.2024
 
