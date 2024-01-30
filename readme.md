@@ -44,14 +44,15 @@ Heute am 16.1 habe ich angefangen zu orogrammieren. Ich habe einen kleinen einfa
 | ...             |                      |                |                |          |
 | 8               |                      |                |                |          |
 
-✍️ Heute am 23.1 habe ich an mein Projekt weiter gemacht. Ich habe mein Projekt heute fertig programmiert. Ich habe zuerst einen Code programmiert, damit ich die Lösung reinschreiben kann. Wenn die Lösung richtig ist antwortet das Programm mit "Richtig!" und wenn die Lösung falsch ist, antwortet das Programm mit der richtigen Lösung. Ich habe dann zuletzt einen Loop eingebaut, das sich 5 mal wiederholen wird. (65)
+Heute am 23.1 habe ich an mein Projekt weiter gemacht. Ich habe mein Projekt heute fertig programmiert. Ich habe zuerst einen Code programmiert, damit ich die Lösung reinschreiben kann. Wenn die Lösung richtig ist antwortet das Programm mit "Richtig!" und wenn die Lösung falsch ist, antwortet das Programm mit der richtigen Lösung. Ich habe dann zuletzt einen Loop eingebaut, das sich 5 mal wiederholen wird. (65)
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Heute am 23.1 habe ich meinen Github Profil und Code ein bisschen umgeändert. Ich habe nur paar Sachen verbessert die kleine Änderungen gebraucht hat. Jedoch habe ich heute auch an andere Sachen gearbeitet. Ich habe an das Projekt vom Modul 164 weiter gemacht. Ich habe auch gelernt da wir am 31.1 einen Kurztest haben, der für die Note zählt. Heute habe ich auch an Sachen von der Schule gearbeitet. Ich habe Mathe gelernt, weil wir einen Test am donnerstag haben. (80)
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Diese Lernperiode habe ich an einem Projekt gearbeitet, das Mathe Rechnungen abfragt. Aber der Code ist ein sehr kleiner Code und Projekt, da wir diese Lernperiode nur 4 Wochen dafür hatten. Die erste Woche war nur eine Planung und die letzte Woche haben wir auch nicht programmiert. Ich habe den Code in 2 wochen programmiert und es ist auch sehr wenig, aber es gefällt mir nicht sehr. Ich finde ich hätte den Schluss ändern können, weil der Code nach 5 Rechnungen direkt endet. 
+Ich finde die 4 Wochen sind ein bisschen wenig, aber es reicht wenn man schnell arbeitet. Ich nehme mir vor in der nächsten Lernperiode ein schwierigeres Projekt zu machen, dass nicht zu lang oder zu kurz ist. (120)
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ich finde 4 Wochen und 9 Wochen haben einen sehr grossen Unterschied, da man nur einen kleinen oder einen grossen Projekt machen kann. 4 Wochen ist bisschen wenig und 9 Wochen sind zu viel. 9 Wochen geht sehr lange und man hätte dann keine Lust daran weiter zu arbeiten oder man hätte keine Lust nochmal ein kleines Projekt anzufangen. Aber ich finde so 6 oder 7 Wochen wäre besser.
